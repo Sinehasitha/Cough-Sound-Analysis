@@ -25,5 +25,3 @@ This project classifies audio cough recordings into respdisease or not_respdisea
 ## Visualization
 - Spectrograms, training progress, and ROC curve were plotted for analysis.
 
-
-keras / tensorflow for building and training the neural network
